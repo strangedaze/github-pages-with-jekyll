@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Crypto Makr
 ---
 
-I'm glad you are here. I plan to talk about ...
+Learning Github so I can create a git page for my existing website. 
